@@ -1,14 +1,14 @@
 @font-face {
   font-family: "Vienna";
-  src: url(/fonts/vienna.otf);
+  src: url(/milya/fonts/vienna.otf);
 }
 @font-face {
   font-family: "NewChannel";
-  src: url(/fonts/newchannel.ttf);
+  src: url(/milya/fonts/newchannel.ttf);
 }
 @font-face {
   font-family: "Coventry";
-  src: url(/fonts/coventry.otf);
+  src: url(/milya/fonts/coventry.otf);
 }
 
 * {
@@ -257,15 +257,15 @@ hr {
 }
 
 .when::after {
-  background: url("/img/_158595-4583.jpg");
+  background: url("/milya/img/_158595-4583.jpg");
 }
 
 .result::after {
-  background: url("/img/sr-medizinische-kosmetik-slide3.jpg");
+  background: url("/milya/img/sr-medizinische-kosmetik-slide3.jpg");
 }
 
 .mustnot::after {
-  background: url(/img/massazh-lica.jpg);
+  background: url(/milya/img/massazh-lica.jpg);
 }
 
 .when::after,
@@ -339,7 +339,7 @@ button:focus {
   position: absolute;
   top: 0;
   left: 0;
-  background: url(/img/massazh-lica.jpg);
+  background: url(/milya/img/massazh-lica.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
